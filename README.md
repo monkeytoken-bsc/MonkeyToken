@@ -19,7 +19,7 @@ Monkey Token Contract
    There is no limit to the burn, the black hole will keep growing, increasing the scarcity of Monkey.
    - 1,000,000,000,000,000 total supply
    - 3,000,000,000,000 tokens limitation for trade (BUY) & limitation for trade (SELL) 100,000,000,000 Tokens (To prevent the price from dropping too much for whales)
-   - 
+   
    -⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨
    
    The supplies would be distributed as follows
