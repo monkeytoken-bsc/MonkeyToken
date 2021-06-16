@@ -5,14 +5,14 @@ Monkey Token Contract
    #MONKEY TOKEN
    The sky is the limit. But for us the limit is the universe after the moon!
    Monkey is a deflationary defi meme token created by community members to deliver to the community..
-   For every transaction, 10% tax is charged on transactions, 6% goes to holders, 4% is automatically applied to group liquidity pool to locked.
+   For every transaction, 7% tax is charged on transactions, 2% goes to holders, 5% is automatically applied to group liquidity pool to locked.
    As the burn address participates as a holder, the supply is forever decreasing
    
    -⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨-⃨
    
    #MONKEY UNIQUE FEATURES:
-   - 4% fee auto add to the liquidity pool to locked forever when selling. it's the best part of the #MONKEY idea, increasing the liquidity pool automatically, help the pool grow    from the small init pool.
-   - 6% fee auto distribute to all holders.
+   - 5% fee auto add to the liquidity pool to locked forever when selling. it's the best part of the #MONKEY idea, increasing the liquidity pool automatically, help the pool grow    from the small init pool.
+   - 2% fee auto distribute to all holders.
    We have created a black hole so #Monkey token will deflate itself in supply with every transaction.
    - 20% Supply is burned at start to a black hole address, this address also participates in the protocol, 
    it accumulates more tokens, thereby effectively removing them from circulation. 
